@@ -1,0 +1,36 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  timerclass.cpp
+  textureshaderclass.cpp
+  textureclass.cpp
+  systemclass.cpp
+  shadermanagerclass.cpp
+  positionclass.cpp
+  modelclass.cpp
+  main.cpp
+  lightshaderclass.cpp
+  lightclass.cpp
+  inputclass.cpp
+  graphicsclass.cpp
+D:\Documents\Real Time Graphics\Real Time Graphics\Solar System Project\Engine\graphicsclass.cpp(62,22): warning C4316: 'D3DClass': object allocated on the heap may not be aligned 16
+D:\Documents\Real Time Graphics\Real Time Graphics\Solar System Project\Engine\graphicsclass.cpp(118,28): warning C4316: 'CameraClass': object allocated on the heap may not be aligned 16
+D:\Documents\Real Time Graphics\Real Time Graphics\Solar System Project\Engine\graphicsclass.cpp(622,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Real Time Graphics\Real Time Graphics\Solar System Project\Engine\graphicsclass.cpp(694,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Real Time Graphics\Real Time Graphics\Solar System Project\Engine\graphicsclass.cpp(729,89): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Real Time Graphics\Real Time Graphics\Solar System Project\Engine\graphicsclass.cpp(760,90): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Real Time Graphics\Real Time Graphics\Solar System Project\Engine\graphicsclass.cpp(823,87): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Real Time Graphics\Real Time Graphics\Solar System Project\Engine\graphicsclass.cpp(856,90): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Real Time Graphics\Real Time Graphics\Solar System Project\Engine\graphicsclass.cpp(889,89): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Real Time Graphics\Real Time Graphics\Solar System Project\Engine\graphicsclass.cpp(922,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Real Time Graphics\Real Time Graphics\Solar System Project\Engine\graphicsclass.cpp(942,44): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Documents\Real Time Graphics\Real Time Graphics\Solar System Project\Engine\graphicsclass.cpp(942,38): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Documents\Real Time Graphics\Real Time Graphics\Solar System Project\Engine\graphicsclass.cpp(942,32): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Documents\Real Time Graphics\Real Time Graphics\Solar System Project\Engine\graphicsclass.cpp(953,89): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Real Time Graphics\Real Time Graphics\Solar System Project\Engine\graphicsclass.cpp(985,90): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  DDSTextureLoader.cpp
+  d3dclass.cpp
+  cameraclass.cpp
+  bumpmodelclass.cpp
+  bumpmapshaderclass.cpp
+  Generating Code...
+D:\Documents\Real Time Graphics\Real Time Graphics\Solar System Project\Engine\graphicsclass.cpp(346): warning C4715: 'GraphicsClass::Initialize': not all control paths return a value
+  Engine.vcxproj -> D:\Documents\Real Time Graphics\Real Time Graphics\Solar System Project\Debug\Engine.exe
